@@ -6,3 +6,6 @@ https://dashboard.alchemy.com/
 `node index.js` check the price results.
 
 ![](./image.png)
+
+## price now(ten minutes latency)
+![](./current_price.png)

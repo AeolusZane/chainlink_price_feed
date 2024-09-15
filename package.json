@@ -1,0 +1,11 @@
+{
+  "name": "pricefeed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@chainsafe/web3-plugin-chainlink": "^1.0.0",
+    "web3": "4.1.1"
+  }
+}

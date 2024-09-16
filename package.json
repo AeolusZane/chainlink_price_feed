@@ -6,6 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "@chainsafe/web3-plugin-chainlink": "^1.0.0",
+    "ethers": "^6.13.2",
     "web3": "4.1.1"
   }
 }
